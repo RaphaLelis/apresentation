@@ -16,7 +16,7 @@ function App() {
       <p className="read-the-docs">
 	  Sempre buscando trazer e aproveitar o melhor do meu colaborador, da comunidade e de mim, nos preparativos para o futuro avanço da alta tecnologia. #GoStepBeyond 🚀
       </p>
-      <div className="card">
+      <div>
 			<SocialIcon url="https://www.linkedin.com/in/raphael-lelis-249ab3161/"/>
 			<SocialIcon url="https://github.com/RaphaLelis" network="github"/>
 			<SocialIcon url="mailto:raphalelis@outlook.com" />
